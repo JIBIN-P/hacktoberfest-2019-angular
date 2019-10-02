@@ -5,6 +5,8 @@
 Add your favorite [Angular](https://angular.io/) resource from the year!
 This can be a resource that you enjoyed, learned from, or came back to the most frequent.
 
+Before adding your resource at [resources.json](https://github.com/timdeschryver/hacktoberfest-2019-angular/blob/master/src/assets/resources.json), please do a search whether the title of the resource already exists in the file to avoid duplicates. Please make this check before submitting a PR.
+
 Add your resource at [resources.json](https://github.com/timdeschryver/hacktoberfest-2019-angular/blob/master/src/assets/resources.json), this can be done directly via the GitHub UI in the browser or you can also fork and clone this project locally.
 
 After your resource is added, do not forget to create a Pull Request.
